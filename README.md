@@ -1,4 +1,4 @@
 # Scientific calculator
 A digital scientific calculator made in python
 
-<img src="https://github.com/Oaktale/scientific_calculator/blob/master/Screenshot.JPG" width="100">
+<img src="https://github.com/Oaktale/scientific_calculator/blob/master/Screenshot.JPG" width="200">
