@@ -1,2 +1,2 @@
-# scientific_calculator
+# Scientific calculator
 A digital scientific calculator made in python
